@@ -32,3 +32,10 @@ input{
 
 
 }
+#diceResult{
+    margin: 20px;
+}
+#diceImage{
+    width: 50%px;
+    margin: 10px;
+}
