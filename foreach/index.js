@@ -8,7 +8,6 @@ console.log(fruits); //after  foreach application
 
 
 
-
 function upperCase(element , index, array){
     array[index]=element.toUpperCase(); 
 }
