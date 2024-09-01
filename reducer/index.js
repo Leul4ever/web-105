@@ -6,3 +6,9 @@ const total = prices.reduce((accumulator,element)=>{
 console.log(`total$${total.toFixed(2)}`);
 
 
+const grade =[12,34,45,67,78,98];
+const highestGrad=grade.reduce((grade, gradeValue)=>{
+
+    return Math.max(grade,gradeValue);
+});
+console.log(highestGrad);
