@@ -54,8 +54,3 @@ console.log(fish.swimSpeed );
 console.log(hawk.age);
 console.log(rabbit.runSpeed);
 console.log(hawk.run());
-
-
-
-
-
